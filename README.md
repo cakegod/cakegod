@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Fábio Rodrigues Sousa</h1>
-<h3">A passionate frontend developer from France</h3>
+<h3">A passionate developer from France</h3>
 
 - 📫 You can reach me at **fabiorodriguessousa97@gmail.com**
 
